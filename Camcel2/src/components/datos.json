@@ -1,0 +1,30 @@
+[
+    { 
+      "id": 1, 
+      "nombre": "Empresa A", 
+      "descripcion": "Descripción de la Empresa A", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/women/85.jpg"
+    },
+    { 
+      "id": 2, 
+      "nombre": "Empresa B", 
+      "descripcion": "Descripción de la Empresa B", 
+      "verificado": false,
+      "imagen": "ruta/a/imagen2.jpg"
+    },
+    { 
+      "id": 3, 
+      "nombre": "Empresa C", 
+      "descripcion": "Descripción de la Empresa C", 
+      "verificado": true,
+      "imagen": "ruta/a/imagen3.jpg"
+    },
+    { 
+      "id": 4, 
+      "nombre": "Empresa D", 
+      "descripcion": "Descripción de la Empresa D", 
+      "verificado": false,
+      "imagen": "ruta/a/imagen4.jpg"
+    }
+  ]
